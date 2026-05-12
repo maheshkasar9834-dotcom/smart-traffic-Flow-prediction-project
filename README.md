@@ -13,7 +13,7 @@ This project uses machine learning techniques to predict traffic flow and road c
 - Machine Learning
 -  Numpy
 -  Pandas
-- linear regression
+- linear regression. 
 - Matplotlib
  
 ## Purpose
