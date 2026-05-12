@@ -16,7 +16,5 @@ This project uses machine learning techniques to predict traffic flow and road c
 - linear regression
 - Matplotlib
  
-
-
 ## Purpose
 The main goal of this project is to improve traffic management and reduce road congestion using intelligent prediction systems.
